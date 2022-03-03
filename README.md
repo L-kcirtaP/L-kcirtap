@@ -14,12 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a developer, interested in many aspects of computer science and programming 💻.
-
-I graduated from The Chinese Unversity of Hong Kong, Shenzhen 🎓. It's a beautiful campus, and I really miss that place and my people in there 💜. Currently, I'm working at ByteDance💃@Beijing as a server-side R&D engineer.
-
-I will always stand by open source and free software 🦉, for it inspiring tech innovation, building better quality software, and most importantly 🤔, software should be used for every ordinary people and improve their lives, instead of making profits for the own sake of big companies 🏦 and governments 🏛.
-
-Reach me by sending email 📧 to yangliu@link.cuhk.edu.cn, or liuyang.42@bytedance.com if you're looking for a job at ByteDance.
-
-Look forward to making friend with u 👯.
+Just wandering around.
